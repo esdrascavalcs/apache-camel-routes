@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.apache.camel.learn</groupId>
-  <artifactId>apache-camel-start</artifactId>
+  <artifactId>apache-camel-routes</artifactId>
   <packaging>jar</packaging>
   <version>1.0.0-SNAPSHOT</version>
 
@@ -85,7 +85,7 @@
         <version>3.18.4</version>
         <configuration>
           <logClasspath>true</logClasspath>
-          <mainClass>org.apache.camel.learn.MainApp</mainClass>
+          <mainClass>org.apache.camel.main.MainApp</mainClass>
         </configuration>
       </plugin>
 
