@@ -1,4 +1,4 @@
-package br.com.esdrascavalcs;
+package br.com.esdrascavalcs.application;
 
 import br.com.esdrascavalcs.application.routes.CityRoute;
 import br.com.esdrascavalcs.application.routes.NameRoute;

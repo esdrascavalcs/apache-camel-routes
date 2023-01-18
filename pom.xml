@@ -85,7 +85,7 @@
         <version>3.18.4</version>
         <configuration>
           <logClasspath>true</logClasspath>
-          <mainClass>br.com.esdrascavalcs.MainApp</mainClass>
+          <mainClass>br.com.esdrascavalcs.application.MainApp</mainClass>
         </configuration>
       </plugin>
 
